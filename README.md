@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Logan Cabanaw
+## Lab 8
+## 11/5/2024
 ## Worked with/sources 
 * example
 * example
